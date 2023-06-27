@@ -1,4 +1,4 @@
 a = 20
 b = 25
 c = a+b
-print(c)
+print("the sum is",c)
